@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Variables de configuración
-usuario="kali"
-direccion_ip="192.168.100.232"
+usuario="server1"
+direccion_ip="192.168.100.206"
 ruta_destino=""  # Ruta en el servidor donde se colocará el Docker Compose descargado
 repo_github="https://github.com/gon-alt/DespliegueWordpress"  # URL del repositorio de GitHub que contiene el Docker Compose
 
